@@ -1,6 +1,6 @@
 package com.kh.jdbc.day02.run;
 
-import com.kh.jdbc.day01.student.view.StudentView;
+import com.kh.jdbc.day02.view.StudentView;
 
 public class Run {
 	

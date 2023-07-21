@@ -2,8 +2,8 @@ package com.kh.jdbc.day02.controller;
 
 import java.util.List;
 
-import com.kh.jdbc.day01.student.model.dao.StudentDAO;
-import com.kh.jdbc.day01.student.model.vo.Student;
+import com.kh.jdbc.day02.model.dao.StudentDAO;
+import com.kh.jdbc.day02.model.vo.Student;
 
 public class StudentController {
 	

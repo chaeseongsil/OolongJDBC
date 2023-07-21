@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.kh.jdbc.day01.student.model.vo.Student;
+import com.kh.jdbc.day02.model.vo.Student;
 
 public class StudentDAO {
 	// DAO의 역할 : DB에 있는 정보를 가져와서 VO로 보냄
